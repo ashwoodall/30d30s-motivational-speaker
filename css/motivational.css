@@ -1,0 +1,20 @@
+body {
+	background-image: url("../images/wk.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	margin-top: 60px;
+}
+
+h1 {
+	text-align: center;
+	color: #fff !important;
+	padding: 15%;
+}
+
+.by {
+	display: block;
+}
+
+.container {
+	padding-bottom: 70px;
+}
